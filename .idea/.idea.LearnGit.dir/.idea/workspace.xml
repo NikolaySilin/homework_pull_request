@@ -20,6 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4feaeb82-03f1-4405-9541-34f5ca124619" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnGit.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/смешно.jpg" afterDir="false" />
+>>>>>>> dell_info
       <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/Inventory.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/Inventory.cs.meta" afterDir="false" />
@@ -34,9 +47,13 @@
       <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs.meta" afterDir="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
 >>>>>>> merge_info
+=======
+      <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
+>>>>>>> dell_info
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
@@ -104,10 +121,14 @@
       <updated>1642835408476</updated>
       <workItem from="1642835413382" duration="13011000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1642853776435" duration="6291000" />
 =======
       <workItem from="1642853776435" duration="6597000" />
 >>>>>>> merge_info
+=======
+      <workItem from="1642853776435" duration="4409000" />
+>>>>>>> dell_info
     </task>
     <servers />
   </component>
