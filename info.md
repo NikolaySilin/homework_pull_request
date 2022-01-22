@@ -37,7 +37,7 @@ commit_code - код коммита, который можно посмотре�
 >git checkout master
 
 ## Добавление контента:
-![text](смешно.jpg)
+А че тут такое?)
 
 [Тоже смешно](https://pikabu.ru/story/kogda_merzhish_vetki_na_neznakomom_proekte_8354578)
 
