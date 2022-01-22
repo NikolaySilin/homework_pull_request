@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4feaeb82-03f1-4405-9541-34f5ca124619" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/Inventory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/Inventory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/ItemScriptableObjects.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/NewInventory/ItemScriptableObjects.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Data/GameSession.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Data/GameSession.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Data/PlayerData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Data/PlayerData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Definitions/DefsFacade.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Definitions/DefsFacade.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/HeroMotion/Hero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/HeroMotion/Hero.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/HeroMotion/HeroInputReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/HeroMotion/HeroInputReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/InputSettings/HeroInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/InputSettings/HeroInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/InputSettings/HeroInput.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/InputSettings/HeroInput.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Assets/Textures/Props/Props/Helm.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Assets/Textures/Props/Props/Helm.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/Artifacts/6a/6a497d12f21d1abac9e64d14c67d1224" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/Artifacts/9b/9b30049b29b3fd3c8b667e50de8bb179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/Artifacts/f4/f407964a9eec1335dbec8586d9eb7a89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../TestTask_1.2/Assets/Player/Components/Scripts/Move/MoveComponent.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/info.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="242j7H23nm0q8PLfJVbHbh3eiYb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4feaeb82-03f1-4405-9541-34f5ca124619" name="Default Changelist" comment="" />
+      <created>1642835408476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642835408476</updated>
+      <workItem from="1642835413382" duration="13011000" />
+      <workItem from="1642853776435" duration="6291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1642852454683">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.1080.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1642852454683" />
+  </component>
+</project>
