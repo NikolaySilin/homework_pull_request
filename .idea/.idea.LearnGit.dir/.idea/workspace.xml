@@ -33,6 +33,10 @@
       <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/Model/Definitions/DefsFacade.cs.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestTask_1/Assets/Scripts/Player/PlayerComponents/InventoryAddComponent.cs.meta" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
+>>>>>>> merge_info
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My project/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
@@ -99,7 +103,11 @@
       <option name="presentableId" value="Default" />
       <updated>1642835408476</updated>
       <workItem from="1642835413382" duration="13011000" />
+<<<<<<< HEAD
       <workItem from="1642853776435" duration="6291000" />
+=======
+      <workItem from="1642853776435" duration="6597000" />
+>>>>>>> merge_info
     </task>
     <servers />
   </component>
