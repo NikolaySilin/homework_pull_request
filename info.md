@@ -51,7 +51,6 @@ public void Jump()
             _rigidbody.AddForce(Vector3.up * _jumpForce, ForceMode.Impulse);
         }
 ```
-<<<<<<< HEAD
 
 ## Ветки в Git:
 
@@ -79,7 +78,6 @@ public void Jump()
 >git merge branch_name
 
 В случае возникновения конфлика при merge, нужно выбрать какой из вариантов нам нужен(или оставить оба) и по необходимости модифицировать их
-
 
 ## Справка:
 Для того чтобы вызвать справку по какой то команде, нужно дописать к ней тег --help
