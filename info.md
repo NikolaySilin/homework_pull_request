@@ -51,6 +51,7 @@ public void Jump()
             _rigidbody.AddForce(Vector3.up * _jumpForce, ForceMode.Impulse);
         }
 ```
+<<<<<<< HEAD
 
 ## Ветки в Git:
 
@@ -85,4 +86,3 @@ public void Jump()
 >git add --help
 
 >git commit --help, и т.д. и т.п.
-
