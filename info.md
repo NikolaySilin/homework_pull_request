@@ -38,7 +38,7 @@ commit_code - код коммита, который можно посмотре�
 >git checkout master
 
 ## Добавление контента
-![text](https://pikabu.ru/story/github_razrushaet_semi_8603857)
+![text](смешно.jpg)
 
 [Тоже смешно](https://pikabu.ru/story/kogda_merzhish_vetki_na_neznakomom_proekte_8354578)
 
